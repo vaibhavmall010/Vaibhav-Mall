@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Mall</h1>
 <h3 align="center">A passionate AI/ML Engineer, currently doing my masters at RWTH Aachen, Germany</h3>
-(img align="right" alt="Coding" width="40" src="https://miro.medium.com/v2/resize:fit:800/1*XgwJgF0EcYUShkNjqz8NeA.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis1010&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis1010" /> </p>
 
 - 🔭 I’m currently looking in the area of AI/ML for the opportunities to apply my skills **through internships.**
