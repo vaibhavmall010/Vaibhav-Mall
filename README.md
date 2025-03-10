@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://nemesis1010.io)
 <h1 align="center">Hi 👋, I'm Vaibhav Mall</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer, currently doing my masters at RWTH Aachen, Germany</h3>
 (img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*XgwJgF0EcYUShkNjqz8NeA.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis1010&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis1010" /> </p>
 
