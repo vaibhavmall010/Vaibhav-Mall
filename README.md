@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis1010&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis1010" /> </p>
 
-- 🔭 I’m currently looking in the area of AI/ML for the opportunities to apply my skills **through internships.**
+- 🔭 I’m currently looking for the opportunities in the domain of AI/ML to apply my skills through **internships**
 
 - 🌱 I’m currently learning **OpenCV, LLMs and GenAI**
 
